@@ -1,0 +1,7 @@
+def great():
+    print("Hello")
+    print("How do you do?")
+    print("Isn't the weather good?")
+
+great()
+great()    
